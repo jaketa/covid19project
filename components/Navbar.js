@@ -1,6 +1,6 @@
 const Navbar = () => (
   <div>
-    <div class="bg-black">
+    <div class="bg-black font-sans">
       <div class="container mx-auto px-4">
         <div class="flex items-center md:justify-between py-4">
           <div class="w-1/4 md:hidden">
@@ -33,7 +33,7 @@ const Navbar = () => (
         </div>
       </div>
     </div>
-    <div class="hidden bg-blue-dark md:block md:bg-white md:border-b">
+    <div class="hidden bg-blue-dark md:block md:bg-white md:border-b font-sans">
       <div class="container mx-auto px-4">
         <div class="md:flex">
           <div class="flex -mb-px mr-8">
