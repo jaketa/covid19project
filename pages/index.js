@@ -23,34 +23,6 @@ export default function Index() {
               </div>
             </div>
           </div>
-          <div class="flex items-center px-6 lg:hidden">
-            <div class="flex-grow flex-no-shrink py-6">
-              <div class="text-grey-darker mb-2">
-                <span class="text-3xl align-top">CA$</span>
-                <span class="text-5xl">21,404</span>
-                <span class="text-3xl align-top">.74</span>
-              </div>
-              <div class="text-green-light text-sm">
-                &uarr; CA$12,955.35 (154.16%)
-              </div>
-            </div>
-            <div class="flex-shrink w-32 inline-block relative">
-              <select class="block appearance-none w-full bg-white border border-grey-light px-4 py-2 pr-8 rounded">
-                <option>BTC</option>
-                <option>ETH</option>
-                <option>LTC</option>
-              </select>
-              <div class="pointer-events-none absolute pin-y pin-r flex items-center px-2 text-grey">
-                <svg
-                  class="fill-current h-4 w-4"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 20 20"
-                >
-                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-                </svg>
-              </div>
-            </div>
-          </div>
 
           <div class="flex-grow flex px-6 py-6 text-grey-darker items-center border-b -mx-4">
                 <div class="w-2/5 xl:w-1/4 px-4 flex items-center">
@@ -171,7 +143,7 @@ export default function Index() {
                   </div>
                   <div class="w-1/2 px-4">
                     <div class="text-right text-grey">
-                      <button class="bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
+                      <button class="bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
                         Claim
                       </button>
                     </div>
@@ -203,7 +175,7 @@ export default function Index() {
                   </div>
                   <div class="w-1/2 px-4">
                     <div class="text-right text-grey">
-                      <button class="bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
+                      <button class="bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
                         Claim
                       </button>
                     </div>
@@ -235,7 +207,7 @@ export default function Index() {
                   </div>
                   <div class="w-1/2 px-4">
                     <div class="text-right text-grey">
-                      <button class="bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
+                      <button class="bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
                         Claim
                       </button>
                     </div>

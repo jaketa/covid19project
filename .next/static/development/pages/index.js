@@ -13,7 +13,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Navbar */ "./components/Navbar.js");
 var _this = undefined,
-    _jsxFileName = "/Users/Jake/Desktop/c19-project/components/Header.js";
+    _jsxFileName = "/Users/Jake/Desktop/covidproject/components/Header.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -54,7 +54,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header */ "./components/Header.js");
 var _this = undefined,
-    _jsxFileName = "/Users/Jake/Desktop/c19-project/components/Layout.js";
+    _jsxFileName = "/Users/Jake/Desktop/covidproject/components/Layout.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -94,7 +94,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _this = undefined,
-    _jsxFileName = "/Users/Jake/Desktop/c19-project/components/Navbar.js";
+    _jsxFileName = "/Users/Jake/Desktop/covidproject/components/Navbar.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -271,10 +271,10 @@ var Navbar = function Navbar() {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fc19-project%2Fpages%2Findex.js!./":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fc19-project%2Fpages%2Findex.js ***!
-  \***********************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fcovidproject%2Fpages%2Findex.js!./":
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fcovidproject%2Fpages%2Findex.js ***!
+  \************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -318,7 +318,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
-var _jsxFileName = "/Users/Jake/Desktop/c19-project/pages/index.js";
+var _jsxFileName = "/Users/Jake/Desktop/covidproject/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -389,130 +389,11 @@ function Index() {
       columnNumber: 17
     }
   }, "Request History")))), __jsx("div", {
-    "class": "flex items-center px-6 lg:hidden",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    "class": "flex-grow flex-no-shrink py-6",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    "class": "text-grey-darker mb-2",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    "class": "text-3xl align-top",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 17
-    }
-  }, "CA$"), __jsx("span", {
-    "class": "text-5xl",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 17
-    }
-  }, "21,404"), __jsx("span", {
-    "class": "text-3xl align-top",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 17
-    }
-  }, ".74")), __jsx("div", {
-    "class": "text-green-light text-sm",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33,
-      columnNumber: 15
-    }
-  }, "\u2191 CA$12,955.35 (154.16%)")), __jsx("div", {
-    "class": "flex-shrink w-32 inline-block relative",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
-      columnNumber: 13
-    }
-  }, __jsx("select", {
-    "class": "block appearance-none w-full bg-white border border-grey-light px-4 py-2 pr-8 rounded",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 15
-    }
-  }, __jsx("option", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 17
-    }
-  }, "BTC"), __jsx("option", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40,
-      columnNumber: 17
-    }
-  }, "ETH"), __jsx("option", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41,
-      columnNumber: 17
-    }
-  }, "LTC")), __jsx("div", {
-    "class": "pointer-events-none absolute pin-y pin-r flex items-center px-2 text-grey",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43,
-      columnNumber: 15
-    }
-  }, __jsx("svg", {
-    "class": "fill-current h-4 w-4",
-    xmlns: "http://www.w3.org/2000/svg",
-    viewBox: "0 0 20 20",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44,
-      columnNumber: 17
-    }
-  }, __jsx("path", {
-    d: "M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 49,
-      columnNumber: 19
-    }
-  }))))), __jsx("div", {
     "class": "flex-grow flex px-6 py-6 text-grey-darker items-center border-b -mx-4",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
+      lineNumber: 27,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -520,7 +401,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56,
+      lineNumber: 28,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -528,7 +409,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 29,
       columnNumber: 19
     }
   }, __jsx("svg", {
@@ -538,7 +419,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 30,
       columnNumber: 21
     }
   }, __jsx("g", {
@@ -546,7 +427,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63,
+      lineNumber: 35,
       columnNumber: 23
     }
   }, __jsx("path", {
@@ -554,7 +435,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64,
+      lineNumber: 36,
       columnNumber: 25
     }
   })))), __jsx("span", {
@@ -562,7 +443,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68,
+      lineNumber: 40,
       columnNumber: 19
     }
   }, "Requested Item 2")), __jsx("div", {
@@ -570,7 +451,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70,
+      lineNumber: 42,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -578,7 +459,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71,
+      lineNumber: 43,
       columnNumber: 19
     }
   }), "Claimed 03/26/2020"), __jsx("div", {
@@ -586,7 +467,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74,
+      lineNumber: 46,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -594,7 +475,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 75,
+      lineNumber: 47,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -602,7 +483,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 76,
+      lineNumber: 48,
       columnNumber: 21
     }
   }, "New")), __jsx("div", {
@@ -610,7 +491,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78,
+      lineNumber: 50,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -618,7 +499,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79,
+      lineNumber: 51,
       columnNumber: 21
     }
   }, __jsx("button", {
@@ -626,7 +507,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80,
+      lineNumber: 52,
       columnNumber: 23
     }
   }, "Unclaim"))))), __jsx("div", {
@@ -634,7 +515,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87,
+      lineNumber: 59,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -642,7 +523,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 88,
+      lineNumber: 60,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -650,7 +531,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 89,
+      lineNumber: 61,
       columnNumber: 19
     }
   }, __jsx("svg", {
@@ -660,7 +541,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 90,
+      lineNumber: 62,
       columnNumber: 21
     }
   }, __jsx("g", {
@@ -668,7 +549,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95,
+      lineNumber: 67,
       columnNumber: 23
     }
   }, __jsx("path", {
@@ -676,7 +557,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96,
+      lineNumber: 68,
       columnNumber: 25
     }
   })))), __jsx("span", {
@@ -684,7 +565,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100,
+      lineNumber: 72,
       columnNumber: 19
     }
   }, "Requested Item 2")), __jsx("div", {
@@ -692,7 +573,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102,
+      lineNumber: 74,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -700,7 +581,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103,
+      lineNumber: 75,
       columnNumber: 19
     }
   }), "Claimed 03/26/2020"), __jsx("div", {
@@ -708,7 +589,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106,
+      lineNumber: 78,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -716,7 +597,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107,
+      lineNumber: 79,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -724,7 +605,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108,
+      lineNumber: 80,
       columnNumber: 21
     }
   }, "In Process")), __jsx("div", {
@@ -732,7 +613,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 110,
+      lineNumber: 82,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -740,7 +621,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111,
+      lineNumber: 83,
       columnNumber: 21
     }
   }, __jsx("button", {
@@ -748,7 +629,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 84,
       columnNumber: 23
     }
   }, "Unclaim")))))), __jsx("div", {
@@ -757,7 +638,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 120,
+      lineNumber: 92,
       columnNumber: 9
     }
   }, __jsx("strong", {
@@ -765,7 +646,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 124,
+      lineNumber: 96,
       columnNumber: 11
     }
   }, "Hey! "), __jsx("span", {
@@ -773,7 +654,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 125,
+      lineNumber: 97,
       columnNumber: 11
     }
   }, "You can have only two open requests at any given time. To claim a new item, you must first release one item from your queue."), __jsx("span", {
@@ -781,7 +662,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129,
+      lineNumber: 101,
       columnNumber: 11
     }
   }, __jsx("svg", {
@@ -792,14 +673,14 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 130,
+      lineNumber: 102,
       columnNumber: 13
     }
   }, __jsx("title", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136,
+      lineNumber: 108,
       columnNumber: 15
     }
   }, "Close"), __jsx("path", {
@@ -807,7 +688,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 137,
+      lineNumber: 109,
       columnNumber: 15
     }
   })))), __jsx("div", {
@@ -815,7 +696,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 141,
+      lineNumber: 113,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -823,7 +704,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 142,
+      lineNumber: 114,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -831,7 +712,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143,
+      lineNumber: 115,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -839,7 +720,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 144,
+      lineNumber: 116,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -847,7 +728,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145,
+      lineNumber: 117,
       columnNumber: 17
     }
   }, __jsx("h3", {
@@ -855,7 +736,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146,
+      lineNumber: 118,
       columnNumber: 19
     }
   }, "Unclaimed"))), __jsx("div", {
@@ -863,7 +744,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 149,
+      lineNumber: 121,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -871,7 +752,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 150,
+      lineNumber: 122,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -879,7 +760,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151,
+      lineNumber: 123,
       columnNumber: 19
     }
   }, __jsx("svg", {
@@ -889,7 +770,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152,
+      lineNumber: 124,
       columnNumber: 21
     }
   }, __jsx("g", {
@@ -897,7 +778,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 157,
+      lineNumber: 129,
       columnNumber: 23
     }
   }, __jsx("path", {
@@ -905,7 +786,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 158,
+      lineNumber: 130,
       columnNumber: 25
     }
   })))), __jsx("span", {
@@ -913,7 +794,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162,
+      lineNumber: 134,
       columnNumber: 19
     }
   }, "Available Item 1")), __jsx("div", {
@@ -921,7 +802,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 164,
+      lineNumber: 136,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -929,7 +810,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165,
+      lineNumber: 137,
       columnNumber: 19
     }
   }), "Added 04/02/2020"), __jsx("div", {
@@ -937,7 +818,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 168,
+      lineNumber: 140,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -945,7 +826,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169,
+      lineNumber: 141,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -953,7 +834,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170,
+      lineNumber: 142,
       columnNumber: 21
     }
   }, "by Provider A")), __jsx("div", {
@@ -961,7 +842,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 172,
+      lineNumber: 144,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -969,15 +850,15 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173,
+      lineNumber: 145,
       columnNumber: 21
     }
   }, __jsx("button", {
-    "class": "bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
+    "class": "bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 174,
+      lineNumber: 146,
       columnNumber: 23
     }
   }, "Claim"))))), __jsx("div", {
@@ -985,7 +866,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181,
+      lineNumber: 153,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -993,7 +874,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 182,
+      lineNumber: 154,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1001,7 +882,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183,
+      lineNumber: 155,
       columnNumber: 19
     }
   }, __jsx("svg", {
@@ -1011,7 +892,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 184,
+      lineNumber: 156,
       columnNumber: 21
     }
   }, __jsx("g", {
@@ -1019,7 +900,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189,
+      lineNumber: 161,
       columnNumber: 23
     }
   }, __jsx("path", {
@@ -1027,7 +908,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190,
+      lineNumber: 162,
       columnNumber: 25
     }
   })))), __jsx("span", {
@@ -1035,7 +916,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194,
+      lineNumber: 166,
       columnNumber: 19
     }
   }, "Available Item 2")), __jsx("div", {
@@ -1043,7 +924,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196,
+      lineNumber: 168,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1051,7 +932,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 197,
+      lineNumber: 169,
       columnNumber: 19
     }
   }), "Added 03/26/2020"), __jsx("div", {
@@ -1059,7 +940,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200,
+      lineNumber: 172,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1067,7 +948,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201,
+      lineNumber: 173,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -1075,7 +956,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 202,
+      lineNumber: 174,
       columnNumber: 21
     }
   }, "by Provider B")), __jsx("div", {
@@ -1083,7 +964,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 204,
+      lineNumber: 176,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -1091,15 +972,15 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205,
+      lineNumber: 177,
       columnNumber: 21
     }
   }, __jsx("button", {
-    "class": "bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
+    "class": "bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 206,
+      lineNumber: 178,
       columnNumber: 23
     }
   }, "Claim"))))), __jsx("div", {
@@ -1107,7 +988,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213,
+      lineNumber: 185,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -1115,7 +996,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 214,
+      lineNumber: 186,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1123,7 +1004,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 215,
+      lineNumber: 187,
       columnNumber: 19
     }
   }, __jsx("svg", {
@@ -1133,7 +1014,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 216,
+      lineNumber: 188,
       columnNumber: 21
     }
   }, __jsx("g", {
@@ -1141,7 +1022,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221,
+      lineNumber: 193,
       columnNumber: 23
     }
   }, __jsx("path", {
@@ -1149,7 +1030,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222,
+      lineNumber: 194,
       columnNumber: 25
     }
   })))), __jsx("span", {
@@ -1157,7 +1038,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 226,
+      lineNumber: 198,
       columnNumber: 19
     }
   }, "Available Item 3")), __jsx("div", {
@@ -1165,7 +1046,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 228,
+      lineNumber: 200,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1173,7 +1054,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 229,
+      lineNumber: 201,
       columnNumber: 19
     }
   }), "Added 03/26/2020"), __jsx("div", {
@@ -1181,7 +1062,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 232,
+      lineNumber: 204,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -1189,7 +1070,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233,
+      lineNumber: 205,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -1197,7 +1078,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 234,
+      lineNumber: 206,
       columnNumber: 21
     }
   }, "by Provider C")), __jsx("div", {
@@ -1205,7 +1086,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236,
+      lineNumber: 208,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -1213,15 +1094,15 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 237,
+      lineNumber: 209,
       columnNumber: 21
     }
   }, __jsx("button", {
-    "class": "bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
+    "class": "bg-green-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 238,
+      lineNumber: 210,
       columnNumber: 23
     }
   }, "Claim"))))), __jsx("div", {
@@ -1229,7 +1110,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 245,
+      lineNumber: 217,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -1237,7 +1118,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 246,
+      lineNumber: 218,
       columnNumber: 17
     }
   }, "Load More...")))))));
@@ -1245,14 +1126,14 @@ function Index() {
 
 /***/ }),
 
-/***/ 2:
-/*!***************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fc19-project%2Fpages%2Findex.js ***!
-  \***************************************************************************************************************************/
+/***/ 1:
+/*!****************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fcovidproject%2Fpages%2Findex.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fc19-project%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fc19-project%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fcovidproject%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FJake%2FDesktop%2Fcovidproject%2Fpages%2Findex.js!./");
 
 
 /***/ }),
@@ -1268,5 +1149,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
