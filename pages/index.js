@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 export default function Index() {
   return (
     <Layout>
-      <div class="flex-grow container mx-auto sm:px-4 pt-6 pb-8">
+      <div class="flex-grow container mx-auto sm:px-4 pt-6 pb-8 font-sans">
         <div class="bg-white border-t border-b sm:border-l sm:border-r sm:rounded shadow mb-6">
           <div class="border-b px-6 bg-black">
             <div class="flex justify-between -mb-px">
