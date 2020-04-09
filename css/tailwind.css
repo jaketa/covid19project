@@ -4,5 +4,8 @@
 
 body {
     background: #edf2f7;
-    margin: 0;
+}
+
+*, ::after, ::before {
+    margin: 0 !important;
 }
